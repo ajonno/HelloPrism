@@ -2,6 +2,7 @@
 
 using Xamarin.Forms;
 
+//sdfdsfdfssdf
 namespace HelloPrism
 {
 	public class App : Application
