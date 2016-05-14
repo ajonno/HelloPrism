@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="iOS/HelloPrism.iOS.csproj">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloPrism" expanded="True">
+            <Node name="HelloPrism" expanded="True" />
+            <Node name="HelloPrism.Droid" expanded="True" selected="True" />
+            <Node name="HelloPrism.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HelloPrism.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3D433CD4-ED80-478C-9D1B-0B105DEB10E4" />
+</Properties>
